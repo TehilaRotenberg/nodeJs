@@ -1,0 +1,7 @@
+התחברו ל API של הסרטים
+ושלפו מתוכו רק סרטים שהצפיות שלהם גדולות ממאה אלף
+
+והציגו ב DOM את descrption image views kind genere name
+http://fs1.co.il/bus/tv.php
+
+לבצע את זה בשיטת המודולים עם IMPORT,EXPORT DEFAULT

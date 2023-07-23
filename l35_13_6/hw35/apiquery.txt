@@ -1,0 +1,3 @@
+ה API של העובדים, יש להחליף את ה SEED
+
+https://randomuser.me/api/?results=10&seed=microsoft
